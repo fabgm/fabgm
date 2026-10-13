@@ -2,6 +2,8 @@
 
 Software engineer who builds APIs, SDKs, and testing tools in Python and C#/.NET. Based in Costa Rica.
 
+About four years building developer tooling: public SDKs, REST integrations, and testing frameworks. Spanish (native), English (professional).
+
 [LinkedIn](https://www.linkedin.com/in/fabian-gonzalez-m/)
 
 ## Open-source contributions
